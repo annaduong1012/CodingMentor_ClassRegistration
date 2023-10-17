@@ -7,7 +7,7 @@
 This is a course registration system developed in Java. It allows users to register new accounts, log in, view course details, and register courses.
 
 ## Usage:
-- The first screen will show the login menu, in which you can choose to register a new account or log in
+- The first screen shows the login menu, in which you can choose to register a new account or log in.
 
 ### Register:
 - Once registered, user details will be stored in the Database.USERS_DB.
