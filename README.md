@@ -19,7 +19,7 @@ This is a course registration system developed in Java. It allows users to regis
 
 ### Course Menu:
 - Once logged in, the user will be shown the course menu.
-- User can select a course to view more details, register course or view mentor details.
+- User can select a course to view more details, register course, or view mentor details.
 - The same course cannot be registered more than once.
 - There is an option to view all your registered courses.
 
@@ -27,5 +27,5 @@ This is a course registration system developed in Java. It allows users to regis
 - In the Course Menu option, if keying anything other than a number, the program will break --> need to catch the error
 - Add function to delete course
 - Add an option for the user to choose to return to the main menu if required, currently, it's auto-loop.
-- How to unlock account once locked?
+- How to unlock an account once locked?
 
